@@ -25,7 +25,7 @@
   "homepage": "https://github.com/agenda/agendash#readme",
   "license": "MIT",
   "dependencies": {
-    "agenda": "https://github.com/sangu0009/agenda-kh.git",
+    "agenda": "https://github.com/baluragala/agenda.git#custom-create",
     "async": "^2.6.0",
     "body-parser": "^1.15.0",
     "commander": "^2.9.0",
